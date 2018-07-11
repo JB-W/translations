@@ -8,7 +8,8 @@
 	"allosaurus":{
 		"name_t":{
 			"ru":"аллозавр",
-			"zh":"异特龙"
+			"zh":"异特龙",
+			"fr":"allosaure"
 		},
 	},
 	"ammonite":{
@@ -21,13 +22,15 @@
 		"name_t":{
 			"da":"klumpangler",
 			"ru":"удильщик",
-			"zh":"鮟鱇鱼"
+			"zh":"鮟鱇鱼",
+			"fr":"baudroie"
 		},
 	},
 	"ankylosaurus":{
 		"name_t":{
 			"ru":"анкилозавр",
-			"zh":"甲龙"
+			"zh":"甲龙",
+			"fr":"ankylosaure"
 		},
 	},
 	"araneo":{
@@ -67,12 +70,14 @@
 	},
 	"basilisk":{
 		"name_t":{
-			"ru":"василиск"
+			"ru":"василиск",
+			"fr":"basilique"
 		},
 	},
 	"basilosaurus":{
 		"name_t":{
-			"ru":"базилозавр"
+			"ru":"базилозавр",
+			"fr":"basilosaure"
 		},
 	},
 	"beelzebufo":{
@@ -89,7 +94,8 @@
 	"brontosaurus":{
 		"name_t":{
 			"ru":"бронтозавр",
-			"zh":"雷龙"
+			"zh":"雷龙",
+			"fr":"brontosaure"
 		},
 	},
 	"broodmotherlysrix":{
@@ -106,7 +112,8 @@
 	"carnotaurus":{
 		"name_t":{
 			"ru":"карнотавр",
-			"zh":"食肉牛龙"
+			"zh":"食肉牛龙",
+			"fr":"carnotaure"
 		},
 	},
 	"castoroides":{
@@ -189,14 +196,16 @@
 		"name_t":{
 			"da":"direbjørn",
 			"ru":"ужасный медведь",
-			"zh":"凶暴熊"
+			"zh":"凶暴熊",
+			"fr":"ours sinistre"
 		},
 	},
 	"direwolf":{
 		"name_t":{
 			"da":"direulv",
 			"ru":"лютоволк",
-			"zh":"冰原狼"
+			"zh":"冰原狼",
+			"fr":"loup sinistre"
 		},
 	},
 	"dodo":{
@@ -220,7 +229,8 @@
 	"dungbeetle":{
 		"name_t":{
 			"da":"gødningsbille",
-			"ru":"скарабей"
+			"ru":"скарабей",
+			"fr":"bousier"
 		},
 	},
 	"dunkleosteus":{
@@ -259,19 +269,22 @@
 	"giantbee":{
 		"name_t":{
 			"da":"kæmpe bi",
-			"ru":"гигантская пчела"
+			"ru":"гигантская пчела",
+			"fr":"abeille géante"
 		},
 	},
 	"giganotosaurus":{
 		"name_t":{
 			"ru":"гиганотозавр",
-			"zh":"南方巨兽龙"
+			"zh":"南方巨兽龙",
+			"fr":"giganotosaure"
 		},
 	},
 	"gigantopithecus":{
 		"name_t":{
 			"ru":"гигантопитек",
-			"zh":"巨猿"
+			"zh":"巨猿",
+			"fr":"gigantopithèque"
 		},
 	},
 	"glowbug":{
@@ -288,7 +301,8 @@
 	},
 	"griffin":{
 		"name_t":{
-			"ru":"грифон"
+			"ru":"грифон",
+			"fr":"griffon"
 		},
 	},
 	"hesperornis":{
@@ -308,7 +322,8 @@
 	},
 	"ichthyosaurus":{
 		"name_t":{
-			"ru":"ихтиозавр"
+			"ru":"ихтиозавр",
+			"fr":"ichthyosaure"
 		},
 	},
 	"iguanodon":{
@@ -341,13 +356,15 @@
 	},
 	"kentrosaurus":{
 		"name_t":{
-			"ru":"кентрозавр"
+			"ru":"кентрозавр",
+			"fr":"kentrosaure"
 		},
 	},
 	"lamprey":{
 		"name_t":{
 			"da":"lampret",
-			"ru":"минога"
+			"ru":"минога",
+			"fr":"lamproie"
 		},
 	},
 	"leedsichthys":{
@@ -369,14 +386,16 @@
 	"lystrosaurus":{
 		"name_t":{
 			"ru":"листрозавр",
-			"zh":"水龙兽"
+			"zh":"水龙兽",
+			"fr":"lystrosaure"
 		},
 	},
 	"mammoth":{
 		"name_t":{
 			"da":"mammut",
 			"ru":"мамонт",
-			"zh":"猛犸象"
+			"zh":"猛犸象",
+			"fr":"mamouth"
 		},
 	},
 	"manta":{
@@ -416,13 +435,15 @@
 	"megalosaurus":{
 		"name_t":{
 			"ru":"мегалозавр",
-			"zh":"巨齿龙"
+			"zh":"巨齿龙",
+			"fr":"mégalosaure"
 		},
 	},
 	"megapithecus":{
 		"name_t":{
 			"ru":"мегапитек",
-			"zh":"中猴"
+			"zh":"中猴",
+			"fr":"mégapithèque"
 		},
 	},
 	"megatherium":{
@@ -432,7 +453,8 @@
 	},
 	"mesopithecus":{
 		"name_t":{
-			"ru":"мезопитек"
+			"ru":"мезопитек",
+			"fr":"mésopithèque"
 		},
 	},
 	"microraptor":{
@@ -450,7 +472,8 @@
 	"mosasaurus":{
 		"name_t":{
 			"ru":"мозазавр",
-			"zh":"沧龙"
+			"zh":"沧龙",
+			"fr":"mosasaure"
 		},
 	},
 	"moschops":{
@@ -475,7 +498,8 @@
 		"name_t":{
 			"da":"odder",
 			"ko":"수달아과",
-			"ru":"выдра"
+			"ru":"выдра",
+			"fr":"loutre"
 		},
 	},
 	"overseer":{
@@ -508,7 +532,8 @@
 		"name_t":{
 			"ko":"파키리노사우루스",
 			"ru":"пахиринозавр",
-			"zh":"厚鼻龙"
+			"zh":"厚鼻龙",
+			"fr":"pachyrhinosaure"
 		},
 	},
 	"paracer":{
@@ -666,7 +691,8 @@
 	"stegosaurus":{
 		"name_t":{
 			"ru":"стегозавр",
-			"zh":"剑龙"
+			"zh":"剑龙",
+			"fr":"stégosaure"
 		},
 	},
 	"tapejara":{
@@ -684,7 +710,8 @@
 	},
 	"therizinosaurus":{
 		"name_t":{
-			"ru":"теризинозавр"
+			"ru":"теризинозавр",
+			"fr":"therizinosaure"
 		},
 	},
 	"thornydragon":{
@@ -736,14 +763,16 @@
 		"name_t":{
 			"da":"grib",
 			"ru":"гриф",
-			"zh":"秃鹰"
+			"zh":"秃鹰",
+			"fr":"vautour"
 		},
 	},
 	"woollyrhino":{
 		"name_t":{
 			"da":"uldent næsehorn",
 			"ru":"шерстистый носорог",
-			"zh":"披毛犀"
+			"zh":"披毛犀",
+			"fr":"rhinocéros laineux"
 		},
 	},
 	"wyvern":{
